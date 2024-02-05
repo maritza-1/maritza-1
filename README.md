@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👸 I am a student in game development. I’m currently working on a dungeon game taking place in a castle. Right now I am interested in learning how to code the game I want to make. 🧚 
 
 <!--
 **maritza-1/maritza-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
